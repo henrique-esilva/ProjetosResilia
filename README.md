@@ -1,7 +1,7 @@
 # **ProjetosResilia**  
 > ainda editando
 
-Repositório criado apenas parar organizar links para os projetos ddo curso de Analise de Dados
+Repositório criado apenas parar organizar links para os projetos do curso de Analise de Dados
 
 ## Módulo 1
 []()
