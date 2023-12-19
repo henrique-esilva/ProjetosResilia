@@ -1,14 +1,17 @@
-# **ProjetosResilia**
+# **ProjetosResilia**  
+> ainda editando
 
-Esses são os projetos dos quais fiz parte no curso de Analise de Dados da Resilia e Senac
+Repositório criado apenas parar organizar links para os projetos ddo curso de Analise de Dados
 
 ## Módulo 1
-
 []()
 
-## Módulo 2
-
+## Módulo 2  
 [Individual](https://github.com/henrique-esilva/trab_individual_2)
 
-## Módulo 3
+## Módulo 3  
+[Individual](https://github.com/henrique-esilva/projeto_individual_M3)  
+[Em grupo](https://github.com/henrique-esilva/projeto_grupo_M3)
+
 ## Módulo 4
+> Em andamento
