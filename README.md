@@ -7,7 +7,7 @@ Repositório criado apenas parar organizar links para os projetos ddo curso de A
 []()
 
 ## Módulo 2  
-[Individual](https://github.com/henrique-esilva/trab_individual_2)
+[Individual](https://github.com/henrique-esilva/trab_individual_2)  
 [Em grupo](https://github.com/lastfirefly/ProjetoGrupo_Mod2)
 
 ## Módulo 3  
