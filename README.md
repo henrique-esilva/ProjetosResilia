@@ -15,4 +15,5 @@ Repositório criado para organizar os projetos do curso de Analise de Dados
 [Em grupo](https://github.com/henrique-esilva/projeto_grupo_M3)
 
 ## Módulo 4
-> Em andamento
+[Individual](https://github.com/henrique-esilva/projeto_individual_M4)  
+[Em grupo]()
