@@ -1,7 +1,8 @@
 # **ProjetosResilia**  
 > ainda editando
 
-Repositório criado para organizar os projetos do curso de Analise de Dados
+Repositório criado para organizar os projetos do curso de Analise de Dados pelo Senac em parceria com a Resilia Educação
+
 
 ## Módulo 1
 []()
