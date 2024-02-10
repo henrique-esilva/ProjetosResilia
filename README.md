@@ -20,5 +20,5 @@ Repositório criado para organizar os projetos do curso de Analise de Dados pelo
 [Em grupo](https://github.com/stephmartinni/Projeto-em-Grupo---M-dulo-4)
 
 ## Módulo 5
-[Individual](https://github.com/henrique-esilva/projeto_individual_M5)
+[Individual](https://github.com/henrique-esilva/projeto_individual_M5)  
 [Em grupo]()
